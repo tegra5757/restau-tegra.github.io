@@ -1,0 +1,24 @@
+.entete{
+	height:490px;
+	width:78em;
+	fixed no-repeat top left;
+}
+.bel{
+background-color:red;
+font-size:65px;
+color:black;
+text-indent:450px
+}
+.page{
+	height:80px;
+}
+em{
+	color:red;
+	font-size:45px;
+}
+.photos{
+	height:90px;
+}
+.liens{
+	text-align:center;
+}
